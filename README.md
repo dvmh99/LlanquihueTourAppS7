@@ -30,18 +30,20 @@ Cada clase hereda desde la clase ServicioTuristico y sobrescribe el método most
 
 ## Estructura del proyecto
 
+```
 src/
- ├── model/
- │    ├── ServicioTuristico.java
- │    ├── RutaGastronomica.java
- │    ├── PaseoLacustre.java
- │    └── ExcursionCultural.java
- │
- ├── data/
- │    └── GestorServicios.java
- │
- └── ui/
-      └── Main.java
+├── model/
+│   ├── ServicioTuristico.java
+│   ├── RutaGastronomica.java
+│   ├── PaseoLacustre.java
+│   └── ExcursionCultural.java
+│
+├── data/
+│   └── GestorServicios.java
+│
+└── ui/
+    └── Main.java
+```
 
 ## Clases principales
 
